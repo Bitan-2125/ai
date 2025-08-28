@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+openai
+faster-whisper
+# TTS  <- REMOVED
+pyttsx3
+pywin32
+aiofiles
